@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\edu\\school\\DesignPatterns\\SOLID\\SOLID.csproj": {}
+    "C:\\Projects\\edu\\DesignPatterns\\solid\\SOLID.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\edu\\school\\DesignPatterns\\SOLID\\SOLID.csproj": {
+    "C:\\Projects\\edu\\DesignPatterns\\solid\\SOLID.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\edu\\school\\DesignPatterns\\SOLID\\SOLID.csproj",
+        "projectUniqueName": "C:\\Projects\\edu\\DesignPatterns\\solid\\SOLID.csproj",
         "projectName": "SOLID",
-        "projectPath": "C:\\Projects\\edu\\school\\DesignPatterns\\SOLID\\SOLID.csproj",
+        "projectPath": "C:\\Projects\\edu\\DesignPatterns\\solid\\SOLID.csproj",
         "packagesPath": "C:\\Users\\peca\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\edu\\school\\DesignPatterns\\SOLID\\obj\\",
+        "outputPath": "C:\\Projects\\edu\\DesignPatterns\\solid\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -5568,11 +5568,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Projects\\edu\\school\\DesignPatterns\\SOLID\\SOLID.csproj",
+      "projectUniqueName": "C:\\Projects\\edu\\DesignPatterns\\SOLID\\SOLID.csproj",
       "projectName": "SOLID",
-      "projectPath": "c:\\Projects\\edu\\school\\DesignPatterns\\SOLID\\SOLID.csproj",
+      "projectPath": "C:\\Projects\\edu\\DesignPatterns\\SOLID\\SOLID.csproj",
       "packagesPath": "C:\\Users\\peca\\.nuget\\packages\\",
-      "outputPath": "c:\\Projects\\edu\\school\\DesignPatterns\\SOLID\\obj\\",
+      "outputPath": "C:\\Projects\\edu\\DesignPatterns\\SOLID\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
