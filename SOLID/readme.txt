@@ -1,4 +1,4 @@
-Playground implementation of examples from 'Udemy: Design Patterns in C# and .NET, Dmitri Nesteruk', extendend with unit tests
+Playground implementation of examples from 'Udemy: Design Patterns in C# and .NET, by Dmitri Nesteruk', extendend with unit tests
 
 VSCode notes
 	- in order to run tests change folder to \DesignPatterns\SOLID and execute following in the terminal "dotnet test"
