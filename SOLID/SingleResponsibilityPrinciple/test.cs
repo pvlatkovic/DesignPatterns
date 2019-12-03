@@ -26,7 +26,7 @@ namespace SOLID.SingleResponsibility
             var journalNew = new Journal(persistance.LoadFromFile(filename));
 
             Assert.True(journalNew.ToString() == journal.ToString());
-			Assert.True(journalNew.AddEntry("Test entry") == 2);
+			Assert.True(journalNew.AddEntry("Test entry") == 2); // test if index for the new item is properly set
         }
 	}
 }
